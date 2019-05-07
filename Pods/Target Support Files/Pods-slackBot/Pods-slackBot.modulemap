@@ -1,0 +1,6 @@
+framework module Pods_slackBot {
+  umbrella header "Pods-slackBot-umbrella.h"
+
+  export *
+  module * { export * }
+}
